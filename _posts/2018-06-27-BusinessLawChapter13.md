@@ -1,5 +1,6 @@
 ---
 layout: post
+author: "Nataland"
 title:  "Chapter 13"
 date:   2018-06-27 11:35:22 -0500
 categories: notes
@@ -77,7 +78,7 @@ categories: notes
 
 #### Equitable Remedies
 - Specific Performance
-  - I dont want money, I just want to house
+  - I dont want money, I just want the house
 - Injunction
   - Make them stop doing something
   - e.x. prohibit them from selling to the U.S.

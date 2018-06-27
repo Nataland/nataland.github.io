@@ -1,10 +1,11 @@
 ---
 layout: post
+author: "Nataland"
 title:  "Chapter 11"
-date:   2018-06-25 22:35:22 -0500
+date:   2018-06-25 11:35:22 -0500
 categories: notes
 ---
-Privity of contract: the relationship between parties to a contract is called
+Privity of contract: the relationship between parties to a contract
 
 #### Exceptions to the privity rule:
 - tort

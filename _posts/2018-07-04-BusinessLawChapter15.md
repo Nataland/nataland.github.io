@@ -21,13 +21,13 @@ Midterm:
 	- What is the liability of the person that has the item?
 - Varying standard of care (different levels)
 	- How careful you should be depends on the situation:
-	1. Gratuitous bailment for benefit of bailee (highest level of care)
-		- Borrowing your neighbour's lawn mower to mow your lawn
-	2. Bailment for value - contractual
-		- Commercial, industry standard
-	3. Gratuitous Bailment for the benefit of bailor (lowest level of care)
-		- The bailor is the owner
-		- Asks your neighbour to look after your dog
+		1. Gratuitous bailment for benefit of bailee (highest level of care)
+			- Borrowing your neighbour's lawn mower to mow your lawn
+		2. Bailment for value - contractual
+			- Commercial, industry standard
+		3. Gratuitous Bailment for the benefit of bailor (lowest level of care)
+			- The bailor is the owner
+			- Asks your neighbour to look after your dog
 	- Case 1: two-year-old Scotch (dog) died when he was put in a drying cage after being groomed
 		- Loss piece of property
 		- Emotional loss associated with loss of dog ($1000 dog for trauma)

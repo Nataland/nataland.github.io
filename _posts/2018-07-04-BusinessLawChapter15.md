@@ -5,11 +5,13 @@ title:  "Chapter 15"
 date:   2018-07-04 17:36:01 -0500
 categories: notes
 ---
-``Midterm:
+```
+Midterm:
 - Define the law before giving the facts.
-- Bill is responsible for negligent misrepresentation, not negligence.``
+- Bill is responsible for negligent misrepresentation, not negligence.
+```
 
-###Bailment
+### Bailment
 - Exists as a combination of Tort and Contract
 - "Look after my stuff for me"
 	- Borrowing or lending

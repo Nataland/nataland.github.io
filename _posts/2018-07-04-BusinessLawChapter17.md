@@ -23,7 +23,7 @@ categories: notes
 - third party <--> principal <--> agent (agents speak for the principal)
 - an absolutelegal necessity: you have to have agents to represent a corporation (to sign, act, etc. on behave of it)
 
-### Why is a real estate agent not an example of a true agency relationship?
+### Why is a real estate agent not an example of a true agency relationship? (Correct answer: 3)
 1. because the agent is paid by commission that fluctuates with the selling price
 2. because he can act for both purchaser and vendor
 3. **because the vendor accepts the offer to purchase himself** When defining agency, we have to determine whether the agent themselves have the right to form contracts
@@ -122,7 +122,7 @@ categories: notes
 			2. right to rescind
 			3. damages for misrepresentation
 			4. also Alberta
-			5. **Purose is （also） to protect the franchisee**
+			5. **Purose is (also) to protect the franchisee**
 - license to use/operate for a term
 - agreement to supply, exclusive
 - national advertising and promotion

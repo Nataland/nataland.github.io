@@ -83,10 +83,11 @@ categories: notes
 4. Illness
 	- Not a breach of K - frustrating event
 	- Role of employment insurance
-- Employer's role:
-	- Need for **warnings** to employee - providing the opportunity for the employee to improve their behaviour
-	- Need to provide adequate training and assistance
-	- Need to document activities of both employer and employee
+	
+#### Employer's role:
+- Need for **warnings** to employee - providing the opportunity for the employee to improve their behaviour
+- Need to provide adequate training and assistance
+- Need to document activities of both employer and employee
 
 ### Wrongful Dismissal
 > Where an employee claims they have been wrongfully dismissed

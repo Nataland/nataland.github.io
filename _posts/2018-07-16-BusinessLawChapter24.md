@@ -2,7 +2,7 @@
 layout: post
 author: "Nataland"
 title:  "Chapter 24"
-date:   2018-07-11 17:37:01 -0500
+date:   2018-07-16 17:37:01 -0500
 categories: notes
 ---
 

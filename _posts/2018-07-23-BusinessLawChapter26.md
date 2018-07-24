@@ -140,15 +140,15 @@ total: 60 marks
 - Remedy for the corporation CBCA
 
 ### Insider Trading
-- trading shares/information when you know something that others don't 
-- can happen to both private and public companies
-- can be both buy and sell
-- not necessarily your shares, may be other shares that are affected
-- do not have to be an insider, but as long as you get the inside information
-- stock tip is not a good thing
-- Martha Stewart - the tippee; CEO (disclosed inside information and sold his own shares)- tippor (punished the tippor harder than the tippee)
 - Legislation - Securities Act / CBCA / OBCA - Private - Public, Criminal Code
 - Use of insider information gained during work when dealing with shares of a public or even private corporation
 - Insider - director, officer, employee, shareholder -+ tippee
 - Disclosure Requirement
 - Remedy - Civil, Criminal
+- Trading shares/information when you know something that others don't 
+	- can happen to both private and public companies
+	- can be both buy and sell
+	- not necessarily your shares, may be other shares that are affected
+	- do not have to be an insider, but as long as you get the inside information
+	- stock tip is not a good thing
+	- Martha Stewart - the tippee; CEO (disclosed inside information and sold his own shares)- tippor (punished the tippor harder than the tippee)

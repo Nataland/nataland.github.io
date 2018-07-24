@@ -16,7 +16,7 @@ total: 60 marks
 - part 2 (16 marks)
 	- 3 multiple choice * 2 marks/each
 	- 1 written 10 mark question
-- chapters: 11, 13, 15, 17, 18, 24, 25, 26, 27, 31, 30
+- chapters: 11, 13, 15, 17, 18, 24, 25, 26, 27, 30, 31
 ```
 
 ## Corporations

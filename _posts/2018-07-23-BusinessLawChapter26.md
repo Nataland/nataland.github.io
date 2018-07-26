@@ -16,7 +16,13 @@ total: 60 marks
 - part 2 (16 marks)
 	- 3 multiple choice * 2 marks/each
 	- 1 written 10 mark question
-- chapters: 11, 13, 15, 17, 18, 24, 25, 26, 27, 30, 31
+- chapters covered:
+	- Chapter 11
+	- Chapter 13
+	- Chapter 15, 17 (omit Leasing)
+	- Chapter 18 (omit collective bargaining/labour disputes/trade unions)
+	- Chapter 24, 25, 26, 27
+	- Chapter 30, 31
 ```
 
 ## Corporations
@@ -145,10 +151,169 @@ total: 60 marks
 - Insider - director, officer, employee, shareholder -+ tippee
 - Disclosure Requirement
 - Remedy - Civil, Criminal
+	- company's brand, opportunities
+	- not just a problem associated with damages
+	- criminal liability
 - Trading shares/information when you know something that others don't 
 	- can happen to both private and public companies
 	- can be both buy and sell
 	- not necessarily your shares, may be other shares that are affected
 	- do not have to be an insider, but as long as you get the inside information
 	- stock tip is not a good thing
-	- Martha Stewart - the tippee; CEO (disclosed inside information and sold his own shares)- tippor (punished the tippor harder than the tippee)
+- Martha Stewart Example
+	- the tippee; CEO (disclosed inside information and sold his own shares)
+	- tippor (punished the tippor harder than the tippee)
+
+### Penalty
+- Criminal/Regulatory Liability - S.122 Securities Act
+	- 5 Years &/or
+	- Fine:
+		- min = gain
+		- max = 3x gain upto 5 million
+	- Regulatory: Between civil and criminal
+	- Insider trading is not just a public company's game
+- Civil Liability for anyone's loss s.134 plus CBCA, account to company for profit
+	- gives right to shareholders & the company to sue
+	- public & private companies
+- Criminal Code offence under s.382.1
+	- 10 years
+	- In Canada, very few people get 10 years, usually a fine
+	- Canada:
+		- provincial jail: less than 2 years
+		- federal jail: 2 years or more
+
+### Strict Liability
+> We don't care if they have dont anything wrong. Absence of fault -> still liable
+
+- Wages s. 119 CBCA
+	- If your company goes bankrupt, and some employees remain unpaid for work they have done. "I worked last week and you never gave me " Up to 6 months worth of wages for every employees that go unpaid
+- Taxes, GST, PST, (HST)
+	- business (tax collector for the government) collects taxes from customers, then give the tax to the CRA 
+	- business (as an employer) withholds the employees' income taxes & CPP
+	- director: liable for all taxes withheld
+	- D&O insurance (directors and officers insurance): covers 122 negligence, all strict liability
+- CPP
+
+### Rights of Shareholder
+- Notice of Meeting, dividends, elect directors
+- Access to information -- financial statements (private: unaudited financial statement; public: far more detailed, may include some forecasting), incorporation documents, share transfer records, and minutes of shareholder meetings -> vote based on this information
+- Class rights:
+	- Voting rights
+	- Cumulative right - accrue dividends
+	- Participating right - share profit
+	- Pre-emptive right 
+		- protect %
+		- prevent my shares from being diluted
+
+### Shareholder Right to Information
+- Minute Book
+- Notice of Meeting
+- Financial Statements
+- Documents of Record
+- Auditor Report (may waive)
+- Statements fairly present the financial position of the corporation in accordance with generally accepted accounting principles – Enron – CEO/CFO certification for Public Companies
+
+### Remedies of Minority Shareholder
+- Appoint Inspector
+- Appraisal Remedy - buy out
+- Derivative Action - sue for the company
+- Wind up - family business deadlock
+- Oppression Remedy - not treating fairly, order what is fair
+
+### Appraisal Remedy
+- Dissenting shareholder don’t like the fundamental changes being made to the corporation
+	- if you can prove that there's a fundamental change going on that makes the company completely somethign else, you can force the company to buy back your shares
+- Corporation buys back the shares – works for private best (public use the markets)
+- List of types of fundamental changes in the legislation
+
+### Derivative Remedy
+- Shareholder (on behalf of Company) brings an action against anyone for wrongs done to the corporation
+- Necessary when directors themselves cause the problem (legal fees)
+- S. 239 CBCA leave from court proving:
+	- the directors refuse to bring the action,
+	- applicant acting in good faith
+	- action in best interests of company
+
+### Oppression Remedy
+- The majority shareholders act in a way that is unfair to the minority shareholder s. 241 CBCA (not fraud or bad faith...)
+	- Need to prove **unfairness**, which is usually not illegal
+- Action is brought by the minority shareholders against the corporation and the personal majority shareholders
+- Power to do anything, rescind contract, remove board etc – BROADEST REMEDY
+	- Conrad Black example: replaced the entire board
+
+### Wind Up
+- When a business is going concern and the shareholders are deadlocked on whether to continue (s. 210(3) special resolution)
+- Apply to court under s. 214 most used reason is it is “fair and equitable” to dissolve
+- Case 26.9
+
+### Shareholder Agreement
+- Unanimous (same opinion)
+- Employment clause
+- Non competition clause
+- Participate in Management clause
+- Buy out clause - set formula for process and price
+- Private Corporations
+
+### Liability to External Stakeholders Corporation & Management
+| STAKEHOLDERS | LIABILITY  |
+|--------------|------------|
+| Creditors    | Civil      |
+| Investors    | Regulatory |
+| Public       | Criminal   |
+
+```
+Do Directors owe these external stakeholders a fiduciary duty?
+(A) yes - all of them
+(B) no - none of them* (correct answer)
+(C) only the shareholders
+```
+
+### Public investors
+- Securities Act & CBCA – Goals
+- Prevent fraudulent practices in the securities industry
+- To obtain full disclosure of information to investors and public
+- Misrepresentation – civil liability for both primary and secondary markets
+
+### How Access Public Investor
+- Registration & Licensing
+	- those involved in the industry (Finance)
+	- selling a financial product / giving advice on a product / CFA -> need to be licensed
+- Issuer Disclosure Requirements
+	- Prospectuses
+		- How you document the issue
+		- Initial Public offering (IPO) - strictly regulated, before it gets announced or released
+	- Continuing Disclosure with Certification 
+	- Trade reports
+
+### Corporate Governance
+- Minimum 3 directors
+- Minimum 2 independent, recommended a majority
+	- e.g. how independent is the Berkshire Board?
+- Audited Financial statements and Financial report certified of CEO, CFO
+- Audit committee mandatory
+- All Audit committee members to financially literate and independent
+- Recommended nominating committee, compensation committee and ethics code
+
+### Liability to the Public
+- Civil
+	- Securities Act s. 138.3 - Misrepresentation
+- Strict Liability - legislation – wages, taxes
+	 - legislative cause of action -> sue insider/employee written/oral information that was inaccurate
+	 - issued time -> corrected time
+	 - motivate them to act on it quickly
+- Criminal – Mens Rea (ray-ah) offences
+	- Senior officials – directing mind
+	- Low level employees
+	- Insider Trading – CBCA, Securities Act, Criminal Code 
+	- Whistleblower retaliation
+		- HR who fires a whistleblower is going to jail
+	- In a criminal offence, we require a wrongful act and a wrongful intention
+		- Find it in a combination of employees
+
+### Environmental Liability
+- Environmental Protection Act
+	- environmental protection legislation
+	- high on government's agenda
+- Corporate and Personal
+- inside and outside directors 
+	- Jail not just fines

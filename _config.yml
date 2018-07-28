@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lecture Notes
+title: BU231 Lecture Notes
 email: yumeng.zhang@uwaterloo.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Miscellaneous lecture notes
@@ -27,7 +27,7 @@ markdown: kramdown
 remote_theme: chesterhow/tale
 
 permalink:    /:year-:month-:day/:title
-paginate:     5
+paginate:     10
 
 plugins:
   - jekyll-paginate

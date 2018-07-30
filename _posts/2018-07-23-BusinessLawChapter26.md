@@ -6,25 +6,6 @@ date:   2018-07-23 17:37:01 -0500
 categories: notes
 ---
 
-```
-Final exam breakdown:
-total: 60 marks
-- part 1 (44 marks)
-	- 4 fill-in-the-blank * 2 marks/each
-	- 1 written 10 mark question
-	- 13 multiple choice * 2 marks/each
-- part 2 (16 marks)
-	- 3 multiple choice * 2 marks/each
-	- 1 written 10 mark question
-- chapters covered:
-	- Chapter 11
-	- Chapter 13
-	- Chapter 15, 17 (omit Leasing)
-	- Chapter 18 (omit collective bargaining/labour disputes/trade unions)
-	- Chapter 24, 25, 26, 27
-	- Chapter 30, 31
-```
-
 ## Corporations
 > Creation & Corporate Governance
 

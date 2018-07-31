@@ -36,6 +36,7 @@ Questions
 1. A partnership is not a separate legal identity but can sue people and be sued?
 2. A partnership ends when someone dies but this can be prevented by stating it in the partnership agreement. How come it's still a no in the continued existence box?
 3. Regarding the differences between limited liability and limited liability partnership: "limited partnerships are not restricted to the professions" - what does this mean?
+- review session LH3094 4:00pm tommorow
 ```
 
 # 1. Sole proprietorships

@@ -86,4 +86,3 @@ You are in house legal counsel ABC Co., a non-unionized family owned company tha
 		- securities act: CEO and CFO should certify that your financial statements (that you give to your shareholders) are true
 		- anybody affected by misleading the statement can sue the corporation/CEO/CFO/authorities that were involved in the preparation of the report, without proving reliance
 		- this is a easier way to sue that negligent misrepresentation
-		

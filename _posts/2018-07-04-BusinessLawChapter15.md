@@ -10,7 +10,6 @@ Midterm:
 - Define the law before giving the facts.
 - Bill is responsible for negligent misrepresentation, not negligence.
 ```
-
 ### Bailment
 - Exists as a combination of Tort and Contract
 - "Look after my stuff for me"

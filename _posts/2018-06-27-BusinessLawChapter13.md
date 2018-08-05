@@ -24,6 +24,7 @@ categories: notes
 - Conduct rendering performance impossible (self-induced frustration)
   - e.x. cottage burned down after the contract was signed
 - Failure to Perform
+  - usually apprent only at the time set for performance
   - Complete
   - Partial: how much is enough? is this a big deal?
     - e.x. What if out of the 500 TVs that I am expecting, only 450 showed up? Should I still pay?
@@ -32,7 +33,10 @@ categories: notes
 - Breach:
   1. Material - discharge and damages (you don't have to do your part)
   2. Minor - damages only
+    - doctrine of substantial performance: performace that does not comply in some minor way with the requirements of the contract
 - The test is substantial performance: the assessment is whether you still have to do your part
+- Mistakes in performamce:
+  - **quasi-contract**: an obligation that may arise, not as a result of contractual relations, but because one party has received an unfair benefit at the expense of the other
 
 ### Exemption of Liability
 - Exemption Clauses seek to protect the party from lawsuits to enforce a contract
@@ -58,6 +62,7 @@ categories: notes
 
 ### Damages
 - Money
+- Not to punish
 - Primary remedy in contract
 - Different calculation than in tort-categories and time
   1. Tort - how much worse off am I? (loss)
@@ -65,20 +70,47 @@ categories: notes
 - Duty to mitigate
   - Gotta do whatchu gotta do to **reduce the loss**
 - Liquidated damage clauses
+- Prerequisites:
+    1. loss must flow from the breach
+      - within foreseeable limits of what the parties would have expected as a likely consequence of a failure to perform
+      - not awarded to compensate unusual/unexpected consequence of breach
+    2. damages must be mitigated
+      - party that suffered a loss must do what it can to minimize losses
+      - mitigation - similar in tort
+      - injured party cannot receive damage for loss that could be prevented
 
 ### Common Law Damages (these will add up to the total amount)
 - Expectation damages - profit
+  - Expectation damages = (Expected position of the plaintiff if the contract had been performed) – (The actual position the plaintiff is in after the breach of contract)
 - Opportunity cost - what else I could have done
+  - lost opportunity cost: the lost chance of making a similar cotract with a different promisor
 - Consequential damages - people who will now sue me
+  - secondary losses incurred by the nonbreaching party that were foreseeable at the time of contracting, chain effect
 - General damages - non economic losses
+  - e.g. professional entertainer's face got ruined by a plastic surgery -> general damages
 - Specific damages - expenses - mitigation or performance
 - Reliance damages - preparation costs
-- Liquidated damages - fixed amount ahead
-- Nominal damages - token
+  - costs of expenditures and wasted effort reasonably made in preparation for performance
+- Punitive Damages
+  - for malicious or bad faith behaviour of the breaching party
+  - e.g.  
+- Liquidated damages - fixed amount ahead (agreed by both parties in the conntract)
+  - penalty clause
+- Nominal damages - token (court award of $1)
+- Mental anguish (compensation for mental distress)
+  1. Wrongful Dismissal: Usually not compensable, but when employers lie about the reason for dismissal or defaming the reputation of the employee, mental anguish is awarded
+  2. Lost holidays
 
 ### Equitable Remedies
+- Prerequisites:
+  1. plaintiff must come to court with "clean hands"
+  2. plaintiff must not delay in bringing an action
+  3. refuse equitable remedy if it would affect an innocent purchasor
+  4. plaintiff must have paid meaningful consideration for the defendant's promise
+  5. plaintiff must ordinarily be a party whom the remedy would be awarded were he the defendant instead
 - Specific Performance
-  - I dont want money, I just want the house
+  - I dont want money, I just want the house (money is not enough)
+  - do a contracted-for act, usually to complete a transaction
 - Injunction
   - Make them stop doing something
   - e.x. prohibit them from selling to the U.S.
@@ -90,13 +122,18 @@ categories: notes
   - If they do this again, let them know what they should do
 - Rescission
   - Unmaking of the contract between parties
+- Quantum meruit
+  - the fair amount a person deserves to be paid for benefit conferred
+  - non-breaching party partially did their part
 
 ### Enforcement of Judgement
 - Collection
   - Garnishment
+    - creditor: garnishee order against a debtor’s wages
   - Executions
+    - an execution order gives the sheriff authority to seize and sell various goods and arrange for a sale of the debtor’s lands after an appropriate grace period
   - Judgement Debtor Examinations
     - a person can be put in jail if they lie in court / don't show up to court
     - can't be arrested for not having enough money to pay the debt
-  - Contempt
+  - Contempt of court: may be punished by imprisonment
 

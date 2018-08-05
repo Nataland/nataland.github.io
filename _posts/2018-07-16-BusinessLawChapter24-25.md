@@ -200,8 +200,179 @@ categories: notes
 	- trustees should have the same powers, duties, and liability as directors of a corporation.
 
 # 3. Corporations
+> A legal person formed by incorporation according to a prescribed legal procedure
 
+- legal person: an entity recognized at law as having its own *legal rights*, *duties*, and *responsibilities*
 
+## corporations vs. partnerships
 
+> Each point talks about partnerships first, then compares it to corporations
 
+1. liability: 
+	- partners: liable for payment of debts of the firm, including payment from his/her personal assets
+	- limited liability of shareholders (the liability of shareholders is limited to the amount of their capital contributions) -> limited corporation
+		- shareholders -> directors: increase range of personal liability
 
+2. transfer of ownership:
+	- partners: cannot release oneself unilaterally, must negotiate
+	- shareholders can do so by transfer of shares
+
+3. management
+	- partnership: unamity on major business decisions
+	- corporation: elect a board of directors and vote
+		- separation of ownership and management
+		- limited liability
+		- avoid additional risk
+
+4. duty of good faith
+	- partners owe each other a duty of good faith or fiduciary duty
+	- shareholders owe no such duty to the corporation
+
+5. continuity
+	- if otherwise stated in the partnership agreement, a partnership dissolves after death / bankruptcy of a partner
+	- a corporation exists independently of any of its shareholders
+
+6. taxation:
+	- partnership is not a taxable entity
+	- corporation is a taxable entity (double taxation)
+		- taxed first in the corporation
+		- then taxed in the hands of a shareholder when a dividend is declared
+		- small corporations: taxed at a low rate
+
+## Consequences of separate corporate personality
+
+- capacity: 
+	- Salomon case: the complete separation of the company and its members
+
+- limitations on the principle of separate corporate existence
+	- the limited liability of shareholders is not absolute
+	- improper distribution of corporate assets - e.g. dividend has been paid although the corporation had made no profits -> shareholders liable
+	- director: negligence -> tort -> corporation vacariously liable
+
+- associated corporations: corporations that are related vertically (one controls the other) or horizontally (both controlled by the same person)
+	- associated corporations are only entitled to a single concession between them
+	- A and B horizontally associated -> A's assets aer not available to pay B's debts
+
+- lifting the corporate veil
+	- find an individual within a corporation liable:
+		1. the individual must control the corporation
+		2. the control must have been exercised to commit a fraud, a wrong, or a breach of duty
+		3. the misconduct must be the cause of the plaintiff's injury
+
+## Methods of incorporation
+
+- general incorporation statutes
+	- incorporation roots: The memorandum and letters patent systems
+	- memorandum of association: a document setting out the essential terms of an agreement to form a corporation
+	- certificate of incorporation: a certificate that a corporation has come into existence
+	- letters patent: a document incorporating a corporation, issued by the appropriate authority, and constituting the "charter" of the corporation
+
+- choice of jurisdiction
+	- provincial: business activity not restricted to that jurisdiction, but to carry on business, must comply with certain registration requirements in order to carry on business there
+	- federal vs provincial incorporation
+
+## The constitution of a corporation
+
+- articles of incorporation: founding corporate document, often referred to as the charter or constitution of the corporation:
+	1. name
+		- cannot fall under prohibited categories (e.g. name cannot suggest that it is associated with the government)
+		- use name search to check if name / a similar one exists already
+		- name is not important: use a number name
+	2. place of registered office
+	3. classes and any maximum number of shares that the corporation is authorized to issue
+	4. two or more classes of shares? -> rights and restrictions of each
+	5. any restriction on the transfer of shares
+	6. number of directors
+	7. any restrictions on the business that may be carried on other provisions that the incorporators choose to include
+
+- Bylaws: the internal working rules of a corporation
+	- not necessary to have
+	- flexible, requiring confirmation by only a simple majority of shareholders
+	- two main categories
+		1. general operating rules
+		2. authorization to directors
+
+## Types of business corporations
+
+1. public corporations
+	- distributing corporation: a corporation that issues its securities to the public; also referred to as an issuing corporation, reporting issuer, and publicly traded corporation
+
+2. private corporations
+	- small and medium sized business enterprises
+	- number of participants and owners is small
+	- same legal significance and corporate independence as the public corporation
+	- the majority
+
+3. corporate groups
+	- a group of corporations, one or more of which is public, with shares held by the public and listed on one or more stock exchanges, together with a number of subsidiaries that are private
+
+4. professional corporations
+	- a special type of business corporation that may be formed by members of a profession
+	- a member of profession who incorporates remains responsible for her own negligence or misconduct toward clients
+	- tax advantages
+	- only members of listed professions may form a PC
+
+## Corporate Capital
+
+1. equity and debt
+	- two ways in which a corporation can rasse funds
+
+2. share capital
+	- authorized capital: the maximum number (or value) of shares that a corporation is permitted by its charter to issue
+	- issued capital: the shares that have been issued by a corporation
+	- paid-up capital: the sahres that have been issued and fully paid for
+	- stated capital account: the amount received by a corporation for the issue of its shares
+	- share: a member's proportionate interest in the capital of a corporation
+	- 3 ways to become a shareholder:
+		- by being one of the original applicants for incorporation (increase issued capital)
+		- by buying shares issued by a corporation subsequent to its incorporation (increase issued capital)
+		- by acquiring previously issued shares from another shareholder (does not affect the accounts of the corporation)
+
+3. par values
+
+> a nominal value attached to a share at the time of issue
+
+- no par value shares: share that have no nominal value attached
+
+- preferred shares: shares carrying preferential rights to receive a dividend and/or to be redeemed on the dissolution of the corporation for a fixed price
+
+## Corporate Securities
+
+- shares vs bonds
+	- bond: a document evidencing a debt owed by a corporation
+	- common share: a share carrying no preferential right
+
+- rights of security holders
+	- bondholders
+		- do not normally have a direct voice in the management
+		- exert an indirect form of control over management in the restrictive clauses commonly written into bond indentures: e.g. ceiling on future borrowing
+	- common shareholders
+		- a strong voice in the management of the corporation (in theory)
+		- elect the board of directors
+		- no entitlement to a dividend, and can receive one only after bondholders and preferred shareholders have been paid
+		- entitlement after liquidation: what is left after creditors & preferred shareholders have been satisfied
+	- preferred shareholders
+		- intermediate
+		- entitled to be paid a fixed dividend before any dividend is paid to the common shareholders
+		- entitled to be paid redemption price of their shares on liquidation of the corportion
+		- usually no right to vote
+		- more like creditors than investors
+		- must enforce your rights as an individual
+	- class rights
+		- pre-emptive right: the right of a holder of shares to protect his percentage ownership in the company by buying the same percentage in any new issue of shares
+			- prevent your shares from being diluted
+		- cumulative right: the right of the holder of a preferred share to be paid arrears from previous years before any dividend is paid on the common shares
+		- participating right: the right of a holder of a preferred share to participate in surplus profits or assets of the corporation in addition to the amount of the preferred dividend or redemption price
+
+- priority of payment on liquidation of a corporation
+	1. secured creditors
+	2. unsecured creditors
+	3. preferred shareholders
+	4. common shareholders
+
+- transfer of corporate securities
+	- share and bond certificates: a type of personal property, aka *negotiable instruments* 
+	- forged (fake) has no title
+	- almost always freely transferable, unless a restriction is listed in the corporation's constitution
+		- restriction must be noted on the sahre certificate
+		- restriction is not binding on a purchaser who has no notice of the restriction

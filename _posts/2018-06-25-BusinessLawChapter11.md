@@ -7,16 +7,18 @@ categories: notes
 ---
 Privity of contract: the relationship between parties to a contract
 
+1. liability of seller of goods
+    - family of victim of food poisoning cannot sue food company, since the contract was between food company and victim
+2. liability of manufactureres
+    - manufacturer: negligence
+    - duty of care extends well beyond the parties to the contract to include those persons that a reasonable person could foresee as likely being harmed
+    - can sue in tort (but no contract)
+    - builders, engineers, architects, and designers owe a duty of care to owners/occupants of the buildings they build
+    - above examples: no privity -> cannot sue in contract -> can sue in tort
+
 ### Exceptions to the privity rule:
 - tort
-    1. liability of seller of goods
-        - family of victim of food poisoning cannot sue food company, since the contract was between food company and victim
-    2. liability of manufactureres
-        - manufacturer: negligence
-        - duty of care extends well beyond the parties to the contract to include those persons that a reasonable person could foresee as likely being harmed
-        - can sue in tort (but no contract)
-        - builders, engineers, architects, and designers owe a duty of care to owners/occupants of the buildings they build
-        - above examples: no privity -> cannot sue in contract -> can sue in tort
+    
 - vicarious performance - someone does it for you
     - a third party performs contractual obligations on behalf of the promisor who remains responsible for proper performance
         - A contract with B for B to perform, B lets C perform the job for it, if C failed, then:

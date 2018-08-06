@@ -18,16 +18,25 @@ categories: notes
 	- Statute
 	- Labour Union- Common Law
 
-| Employment                                  | Independent Contractor               |
-|---------------------------------------------|--------------------------------------|
-| Degree of supervision & control over worker | Ownership of tools                   |
-| Duration of the K                           | Duration of the K                    |
-| Nature of the K                             | Nature of the K                      |
-| Intention at the time of K formation        | Intention at the time of K formation |
-| Method of payment                           | Method of payment                    |
-| Benefits                                    | Exclusivity                          |
-| Integration in the workplace                | Risk in profit/loss                  |
-|                                             | Use of time & delivery of result     |
+- Compared with agency:
+	- same person can be both employee and agency
+	- agent: no recourse against a principal that terminates the agreement without notice
+	- employee: often has a right of action for damages for wrongful dismissal in comparable circumstances
+	- both may be liable in tort for the acts
+	- vicarious liability: employer > principal
+
+- Compared with independent contractor:
+
+	| Employment                                  | Independent Contractor               |
+	|---------------------------------------------|--------------------------------------|
+	| Degree of supervision & control over worker | Ownership of tools                   |
+	| Duration of the K                           | Duration of the K                    |
+	| Nature of the K                             | Nature of the K                      |
+	| Intention at the time of K formation        | Intention at the time of K formation |
+	| Method of payment                           | Method of payment                    |
+	| Benefits                                    | Exclusivity                          |
+	| Integration in the workplace                | Risk in profit/loss                  |
+	|                                             | Use of time & delivery of result     |
 
 ### Torts
 - Vicarious Liability
@@ -59,9 +68,14 @@ categories: notes
 	- Intention at time of K formation
 	- Frequency of pay
 	- Level of position
+	- Character of employment
+	- Age of employee
+	- Education or training of employee
+	- Experience of Employee
+	- Availability of similar employment in the industry (market conditions)
 - When is no notice required? -> dismissal for cause
 
-### Dismissal for cause
+### Dismissal for cause (dismissal without notice)
 > Dismissal without notice or further obligation by the employer when the employee's conduct amounts to a breach of the contract
 
 1. Misconduct:
@@ -86,8 +100,14 @@ categories: notes
 	
 #### Employer's role:
 - Need for **warnings** to employee - providing the opportunity for the employee to improve their behaviour
+- Progressive employee discipline: imposing increasingly serious consequences for each event of improper employee behaviour beginning with a warning and ending with dismissal
 - Need to provide adequate training and assistance
 - Need to document activities of both employer and employee
+- burden of proof of the warning is on the employer
+- only most serious events of cause entitle no warning:
+	1. violating an essential term of the employment contract
+	2. breaching the faith inherent in the relationship
+	3. fundamentally or directly conflicting with the employee's obligations to the employer
 
 ### Wrongful Dismissal
 > Where an employee claims they have been wrongfully dismissed
@@ -122,23 +142,43 @@ categories: notes
 	- Problems of trying to assess intangibles such as “pain and suffering” and “humiliation”
 - Wallace v. United Grain Growers Ltd. [1997] 3 S.C.R. 313
 - Reinstatement (give back the position)
+	- Court orders the employer to continue to employ the aggrieved employee
 	- Equitable remedy
 	- Impersonal nature of large corporations
 	- Canada Labour Code R.S.C. 1985, c. L-2 s.240 - for federally regulated companies
 	- Provincial legislation - Quebec, Nova Scotia
 
+#### Summary:
+1. Damages:
+	- payment in lieu (loo, replacement) of notice
+	- damages for mental anguish or pain and suffering
+	- special damages associated with the cost of mitigation
+	- punitive damages from an employer acting in bad faith
+	- reduction for failure to mitigate their damages
+2. Reinstatement
+
 ### Employee Welfare Legislation
 - Human Rights - private sector
+	- employers: must comply with the human rights legislations
+	- must ensure others in the workplace do the same
 - Charter of Rights and Freedoms - government
 - Pay Equity Legislation - equal pay for equal work
 - Employment Equity Legislation- federal only
 - Regulation of working conditions - ESA, Labour codes, Health and Safety
+	- statutory minimum wage (varies with the industry)
+	- limited working hours with some exceptions
+	- annual vacations with pay
 - Employment Insurance Act - insurance against unemployment
 - Worker's compensation:
-	- No fault scheme
+	- Employer's defence in the common law: the injury
+		1. resulted from the contributory negligence of the employer
+		2. was caused by the negligence of a fellow employee, provided the employer took reasonablecare to hire competent workers
+		3. was an **assumed risk**, accepted by the employee as a nromal incident of the type of work he had agreed to do
+	- No fault compensation scheme
 	- Applies to certain industries
 	- Employers are required to pay into the fund
 	- Injured employee can apply to the fund except if it was the employee’s wilful misconduct that caused the injury - exception: death or permanent disability	
+	- Occupational Health: prevention of harm and occupational safety
 
 ---
 

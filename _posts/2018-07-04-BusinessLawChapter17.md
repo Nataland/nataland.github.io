@@ -6,7 +6,7 @@ date:   2018-07-09 17:37:01 -0500
 categories: notes
 ---
 
-### Agency and Franchising
+# Agency and Franchising
 - both are ways to expand a business
 - both invoke the assistance of others to reach wider market
 - in both the principal/franchisor's business can be severely devalued by improper behaviour of the agent/franchisor
@@ -16,6 +16,8 @@ categories: notes
 	- various models:
 		1. everybody franchisee deals with the parent (the franchisor)
 		2. there are administrative franchisees (regional)
+
+# Agency
 
 ### Goal of Agency
 - dependent vs indepdendent:
@@ -67,22 +69,26 @@ categories: notes
 
 ### Liability under Contract
 - contract is created between Principal and third party. Agent has no contractual liability to third party
-- no mention of agency to third party and one really exists - third party gets the choice
+- undisclosed principal
+	- third party knows that it's an agent for someone but does not exactly who -> third party has no rights against the agent
+	- can still enforce a contract made on his behalf and with his authority
+	- must show that the contract was made with his authority
+- no mention of agency to third party and one really exists - third party gets the choice (the choice of whether holding the principal or agent liable for performance of the contract, but not both)
 - shows agency but there isn't one - no contractual rights at all (misrepresentation / deceit -> tort)
 
 ### Liability under Tort
-- shows egency but there isn't one - agent is liable - new tort
+- shows agency but there isn't one - agent is liable - new tort
 	- **breach of warranty of authority**
 - any misrepresentation made by an agent in the course of creating a contract attract liability for agent and principal
 
 ### Termination of the Agency Relationship
-- contract calls for its own dissolution
-- performance
-- death
-- bankruptcy
-- loss of capacity
+- contract calls for its own dissolution (at the end of a time specified in the agency agreement / at the completion of the particular project for which the agency was formed)
+- performance (on notice by either the principal or the agent that he or she wishes to end the agency)
+- death (on the death or insanity of either the principal or the agent)
+- bankruptcy (on the bankruptcy of the principal)
+- loss of capacity (this one should be together with death or insanity, but also on an event that makes perfomance of the agency agreement impossible)
 
-### Franchising
+# Franchising
 - franchisor puts together the intellectual property, confidential information and know how of a business and licenses the franchisee to use it 
 	- all these packaged in the product
 	- sold to an independent business
@@ -99,12 +105,20 @@ categories: notes
 - copyright (example song in Tim Horton's ad), 50 years
 - trademark (example logo): (ex. works of art) 
 	- must be **exclusively associated** with your product
-	- e.x. "Harvey makes a hamburger beautiful"
+	- e.x. "Harvey's makes a hamburger beautiful"
 	- defend your trademark (sue everyone that uses your trademark), can last indefinitely
 - patents (example coffee recipe)
 
 ### Franchise Agreement
 - standard form contract designed by the franchisor (one-sided, in the franchisor's interest)
+- consideration provided by the franchisor: right, or licence to market goods or services supplied by or made to specifications provided by the franchisor
+	- training employees / ongoing suprevision / assistance / management services / design / accounting / inventory control / purchasing systems
+	- independent entrepreneurs -> well-known trade names and reputations
+	- advertising and promotion (national / regional)
+- consideration provided by the franchisee
+	- initial contribution of capital
+	- size varies
+	- pay the services and assistance provided by the franchisor: initial franchise fee and ongoing payments
 - contractual - utmost good faith (once you are in it, you must behave honestly to the other party: cannot lie, cannot cheat)
 	- less than fiduciary but more than normal
 	- must act:

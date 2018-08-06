@@ -18,6 +18,10 @@ categories: notes
 		2. there are administrative franchisees (regional)
 
 ### Goal of Agency
+- dependent vs indepdendent:
+	- dependent agent: an agent who acts exclusively, or mostly, for a single principle
+	- independent agent: an agent who carries on an independent business and acts for a number of principles
+	- commission agent: one who sells on behalf of a principal to third parties
 - exception to the privity rule
 - allow a third party to have **contractual rights** against the principal
 - third party <--> principal <--> agent (agents speak for the principal)
@@ -44,7 +48,7 @@ categories: notes
 	- must have capacity
 	- must not make conditional (no asking, cannot say "let me ask my boss on Tuesday")
 	- must disclose agency to third party
-- estopel / holding out (what if the boss says no?)
+- estoppel / holding out (what if the boss says no?)
 	- doctrine of apparent authority (misrepresenting yourself). should the thrid party have known? (is it reasonable that the third party had no reason to suspect that you do not have authority)
 - necessity - all but gone
 	- agency buying necessity (emergency): not very reliable 

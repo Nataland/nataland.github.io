@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Nataland"
-title:  "Chapter 26"
+title:  "Chapter 26 and 27"
 date:   2018-07-23 17:37:01 -0500
 categories: notes
 ---

@@ -11,7 +11,10 @@ Midterm:
 - Bill is responsible for negligent misrepresentation, not negligence.
 ```
 ### Bailment
+- Fungible goods: goods that may be replaced with different but identical goods
 - Exists as a combination of Tort and Contract
+- Sub-bailment: A give to B who gave it to C
+	- B must obtain permission or consent from A
 - "Look after my stuff for me"
 	- Borrowing or lending
 	- Transfer of possession of goods to someone other than the owner, without transfer of ownership
@@ -69,18 +72,23 @@ Midterm:
 	3. Common carriers (highest level of liability), (completely) strictly liable
 		- take all kinds of products -> common
 		- three defences:
-		1. Act of god (ice storms, tornadoes, etc.)
-		2. Inherent defect (the carrier got the item like that)
-		2. Default of shipper: "the shipper packed it wrong"
+			1. Act of god (ice storms, tornadoes, etc.)
+			2. Inherent defect (the carrier got the item like that)
+			2. Default of shipper: "the shipper packed it wrong"
 - Hotels and Innkeepers 
 	- Disappearance vs. Damage
 		- The only stuff you bail to the hotel/inn is stuff in the safe
 		- The hotel is telling you that the safe is the safest place
+		- guest share responsibility with hotel
 	- Innkeepers Act.
+		- also can sell
 
 ### Remedies
 - Damages = cost of service or cost of repair or replacement
 - Lien - Repair and Storage Liens Act
+
+	> the right to retain possession of the goods until the bailor pays what is due for the services
+
 	- Possession must be retained or lost
 	- Problem: cost to repair exceeded the value of item
 - Sale - Repair and Storage Liens Act

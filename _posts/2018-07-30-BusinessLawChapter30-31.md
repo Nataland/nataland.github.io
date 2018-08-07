@@ -137,8 +137,9 @@ produce, re-produce, perform, publish
 		- historically found inappropriate
 	- Cannot bypass s.41.1 & 41.22
 		- now: it is an offence to try to bypass blocks to download
-	- ISP Duties to Notify
-	- WIPO
+	- ISP (internet service providers) Duties to Notify 
+	- WIPO: World Intellectual Property Organization:
+		- standardization through international guidelines, treaties, conventions, and model laws.
 
 ### Trademarks
 - Distinctive mark used to distinguish products or service
@@ -270,7 +271,7 @@ Documents Act.
 - Treaties between Governments – *contract to adopt corresponding domestic legislation*
 	- e.g. environmental treaties
 	- sign it go home and pass a new law
-	- GATT (1949 – 9 , 128) 
+	- GATT (1949 – 9 , 128) general agreement on tariffs and trade
 		- general agreement on trade and tariffs, right after WWII, learn from mistakes from the past (e.g. treatment on Germany after WWI, punished them too hard, devastated their economy, result: WWII)
 		- you cannot destry someone else's economy and avoid the consequences
 		- tariffs are allowed, but you cannot have levels of friends (member or no member, partner or no partenr)

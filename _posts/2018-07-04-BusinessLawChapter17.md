@@ -140,7 +140,7 @@ categories: notes
 			2. right to rescind
 			3. damages for misrepresentation (e.x. if a Timmie's branch is asked to renovate again, this is what they will rely on, not to rescind)
 			4. also Alberta
-			5. **Purose is (also) to protect the franchisee**
+			5. **Purpose is (also) to protect the franchisee**
 - license to use/operate for a term
 - agreement to supply, exclusive
 - national advertising and promotion

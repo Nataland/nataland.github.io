@@ -107,7 +107,7 @@ categories: notes
   2. plaintiff must not delay in bringing an action
   3. refuse equitable remedy if it would affect an innocent purchasor
   4. plaintiff must have paid meaningful consideration for the defendant's promise
-  5. plaintiff must ordinarily be a party whom the remedy would be awarded were he the defendant instead
+  5. plaintiff must ordinarily be a party whom the remedy would be awarded were he the defendant instead (or damage not enough)
 - Specific Performance
   - I dont want money, I just want the house (money is not enough)
   - do a contracted-for act, usually to complete a transaction

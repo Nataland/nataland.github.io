@@ -4,10 +4,6 @@ author: "Natalie"
 title:  "Tech Interviews - Behavioural questions and How I would approach them"
 date:   2018-10-02 18:37:01 -0500
 categories: notes
-tags:
-	- interview
-	- UW
-	- 3A
 ---
 
 # General

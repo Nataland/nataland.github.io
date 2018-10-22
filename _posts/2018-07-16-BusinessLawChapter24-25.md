@@ -4,6 +4,7 @@ author: "Nataland"
 title:  "Chapter 24 and 25"
 date:   2018-07-16 17:37:01 -0500
 categories: notes
+tags: business business-law bba lecture-notes
 ---
 
 |                           | Sole Prop | General Partnership | Limited Partnership |  LLP  | Corporation | Professional Corporation | Joint Venture |

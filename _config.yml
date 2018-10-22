@@ -1,47 +1,102 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Site settings 配置站点
+title: 'My Blog'
+description: 'See the world through rose-coloured glasses'
+keywords: 'blog, cs, computer science, bba, lecture notes'
+url: 'https://Nataland.github.io' # your host
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: 我要这笔记有何用
-email: yumeng.zhang@uwaterloo.ca
-description: >- # this means to ignore newlines until "baseurl:"
-  Miscellaneous lecture notes
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  Nataland
+# Personal about page
+# username: Yumeng Zhang
+# user_description: 
+#   Hi, Yumeng here, but Natalie is what my friends call me. I am currently a second year double degree student studying Computer Science 
+#   at the University of Waterloo and Business Administration at Wilfrid Laurier University.
+#   I always bring 100% to the work I do and I am not afraid to take initiatives and seek new challenges. 
+# user_title: Student, Software Developer
+# email: y2388zha@edu.uwaterloo.ca
+# twitter_username: neyclesley
+# github_username:  Nataland
+# gplus_username:  neyclesley
 
-# Build settings
+# nav 中文字符空格：&emsp;
+nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
+  home: '/'
+  tags: '/tags.html'
+  timeline: '/timeline.html'
+  aboutme: '/about.html'
+  links: '/links.html'
+
+# 博主
+author: true
+name: 'Yumeng Zhang'
+NickName: 'Natalie'
+webtitle: 'My Blog'
+bio: 'A place where I organize/share my blog and lecture notes!'
+about: true
+aboutyou: 'CS/DD student @ University of Waterloo'
+portraits: '/assets/profile.jpeg' # your portraits image file path
+
+# SNS
+SNS: true
+SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
+  mail: 'mailto:yumeng.zhang@uwaterloo.ca'
+  weixin: '' # 你的微信二维码存放的地址
+  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  github: 'github.com/nataland'
+  Codepen: ''
+  weibo: ''
+  instagram: ''
+  Twitter: ''
+  Dribbble: ''
+  Facebook: ''
+  Google: ''
+  zhihu: ''
+  juejin: ''
+  twitch: ''
+
+# 分页
+paginate: 5
+paginatepath: ['page:num']
+
+# since
+footer:
+  since: 2018
+
+# Markdown
 markdown: kramdown
-remote_theme: chesterhow/tale
+kramdown:
+  input: GFM
+# 代码高亮 使用rouge
+highlighter: rouge
+# 代码高亮主题使用pygments主题: autumn\ default\ emacs\ friendly\ manni\ murphy\ pastie\ perldoc\ tango 任选一个你喜欢的主题名称填在下面的单引号中
+pygmentsTheme: 'default'
 
-permalink:    /:year-:month-:day/:title
-paginate:     10
+# 友情链接
+friends:
+  jekyll: 'https://www.jekyll.com.cn/'
 
-plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
-  - jekyll-feed
+# 评论 最佳体验 在disqus、livere和Gitment之间三选一
+# disqus 评论
+disqus: false
+disqus_url: '' # https://abc.disqus.com/embed.js
+# 来必力评论
+livere: true
+livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
+# Gitment评论 OAuth Application
+Gitment: false
+Gitment_owner: ''  # github用户名
+Gitment_repo: ''  # github博客存放的仓库名
+client_id: ''  # 注册 OAuth Application 后获得的 client_id
+client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
+social-share: true
+social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
+
+# 百度统计 在baidu-url里填写自己相关的url代码
+baidu: true
+baidu-url: ''
+# 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
+google: false
+google-ID: ''
+
+# 博客头信息备选颜色（该部分在站点中不充当站点变量，将其写在post的头信息中用来充当页面变量）
+color: rgb(154,133,255) rgb(255,90,90) rgb(255,210,32) rgb(98,170,255)

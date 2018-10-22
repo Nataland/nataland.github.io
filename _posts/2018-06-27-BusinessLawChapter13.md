@@ -4,6 +4,7 @@ author: "Nataland"
 title:  "Chapter 13"
 date:   2018-06-27 11:35:22 -0500
 categories: notes
+tags: business business-law bba lecture-notes
 ---
 ### Performance
 - A contract comes to an end when all promises have been performed

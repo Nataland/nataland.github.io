@@ -4,6 +4,7 @@ author: "Nataland"
 title:  "Chapter 17"
 date:   2018-07-09 17:37:01 -0500
 categories: notes
+tags: business business-law bba lecture-notes
 ---
 
 # Agency and Franchising

@@ -1,9 +1,12 @@
 ---
 layout: post
-author: "Natalie"
+author: Natalie
 title:  "Tech Interviews - OOP and Android Development"
+subtitle: "Object oriented programming questions and Android development related questions"
 date:   2018-10-16 18:37:01 -0500
-categories: notes
+color: rgb(255,90,90)
+cover: '../assets/test.png'
+tags: technical-interview
 ---
 
 # Object Oriented Programming

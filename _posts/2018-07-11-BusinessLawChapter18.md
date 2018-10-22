@@ -4,6 +4,7 @@ author: "Nataland"
 title:  "Chapter 18"
 date:   2018-07-11 17:37:01 -0500
 categories: notes
+tags: business business-law bba lecture-notes
 ---
 
 ## Employment Law

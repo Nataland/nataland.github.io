@@ -4,6 +4,7 @@ author: "Nataland"
 title:  "Final review"
 date:   2018-08-01 17:37:01 -0500
 categories: notes
+tags: business business-law bba lecture-notes exam
 ---
 
 # Review problems:

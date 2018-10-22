@@ -1,9 +1,11 @@
 ---
 layout: post
-author: "Natalie"
+author: Natalie
 title:  "Tech Interviews - Behavioural questions and How I would approach them"
+subtitle: "Technical Interviews Behavioural Questions"
 date:   2018-10-02 18:37:01 -0500
-categories: notes
+tags: technical-interview
+color: rgb(255,210,32)
 ---
 
 # General

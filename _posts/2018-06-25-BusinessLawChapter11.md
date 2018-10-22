@@ -4,6 +4,8 @@ author: "Nataland"
 title:  "Chapter 11"
 date:   2018-06-25 11:35:22 -0500
 categories: notes
+tags: business business-law bba lecture-notes
+color: rgb(255,90,90)
 ---
 Privity of contract: the relationship between parties to a contract
 

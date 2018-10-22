@@ -4,6 +4,7 @@ author: "Nataland"
 title:  "Chapter 15"
 date:   2018-07-04 17:36:01 -0500
 categories: notes
+tags: business business-law bba lecture-notes
 ---
 ```
 Midterm:

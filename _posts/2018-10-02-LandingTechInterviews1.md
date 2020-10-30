@@ -94,7 +94,7 @@ color: rgb(255,210,32)
 5. What attributes does someone need to have in order to be really successful in this position? 
 6. What types of skills is the team missing that you’re looking to fill with a new hire?
 7. **What are the biggest challenges that someone in this position would face?**
-8. [important] **What's the typical pay range for this position?**
+8. [important] **What's the typical pay range for this position?** (What can I expect in terms of the compensation for this role?)
 9. **Can you tell me about the team I’ll be working with?**
 10. **What is the company and team culture like?**
 11. **What are the next steps in the interview process?**

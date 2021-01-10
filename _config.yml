@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: 'Crochetable'
-description: 'Crochet wearables and amigurumis'
+description: 'Tutorials for crochet wearables and amigurumis'
 keywords: 'crochet, yarn, crafts'
 url: 'https://Nataland.github.io' # your host
 
@@ -28,7 +28,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'Natalie Zhang'
 NickName: 'Natalie'
-webtitle: 'Nataland, a blog'
+webtitle: 'Crochetable'
 bio: 'Crochet enthusiast, android developer'
 about: true
 aboutyou: 'Thanks for choosing my patterns!'
@@ -38,15 +38,15 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:zymnatalie@gmail.com'
-  weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: 'github.com/nataland'
+  # weixin: '' # 你的微信二维码存放的地址
+  # qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  github: 'https://www.github.com/Nataland'
   # Codepen: ''
   # weibo: ''
-  # instagram: ''
+  instagram: 'https://www.instagram.com/natalieymz/'
   # Twitter: ''
   # Dribbble: ''
-  # Facebook: ''
+  Facebook: 'https://www.facebook.com/Natalie9898/'
   # Google: ''
   # zhihu: ''
   # juejin: ''
@@ -58,7 +58,7 @@ paginatepath: ['page:num']
 
 # since
 footer:
-  since: 2018
+  since: 2020
 
 # Markdown
 markdown: kramdown
